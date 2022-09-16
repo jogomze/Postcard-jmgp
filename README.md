@@ -1,4 +1,6 @@
-<!-- hide -->
+# Live website can be found at
+# https://jogomze.github.io/Postcard-jmgp/
+ hide -->
 # The Postcard
 <!-- endhide -->
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
